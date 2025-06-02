@@ -17,3 +17,5 @@ Shavana Nicole Rajkumar<sup>1</sup>, Chris Gyan<sup>2</sup>, Damion Basdeo<sup>2
 **Conclusions:** We demonstrated the novel application of nanopore sequencing with a custom bioinformatics workflow to accurately size HTT CAG repeats. This is the first genetic report of HD in T&T, among limited records in the Caribbean.
 
 Link to Publication: *(TODO)*
+
+The latest version of this repository can be found at the following link: https://github.com/haraksingh-lab-uwi/2025-molecular-diagnosis-hd-trinidad
