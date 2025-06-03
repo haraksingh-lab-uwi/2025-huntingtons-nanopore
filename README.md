@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/994852465.svg)](https://doi.org/10.5281/zenodo.15587961)
+
 # Molecular diagnosis of Huntington’s Disease in Trinidadian families via Triplet Repeat Primed PCR, Fragment analysis, and Nanopore sequencing
 
 Shavana Nicole Rajkumar<sup>1</sup>, Chris Gyan<sup>2</sup>, Damion Basdeo<sup>2</sup>, Nemal Gokool<sup>2</sup>, Arianne Brown Jordan<sup>3</sup>, Soren Nicholls<sup>3</sup>, Vijay Pradeep<sup>4</sup>, and Rajini Rani Haraksingh<sup>1</sup>
